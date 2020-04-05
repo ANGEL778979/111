@@ -81,7 +81,7 @@ int main()
 	if(var)
 	 printf("str is symmerty\n");
 	else printf("str is not symmerty\n");
-	printf("helloworld"); 
+	printf("helloworld."); 
 	return 0;
 	
 	
