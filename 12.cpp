@@ -84,6 +84,6 @@ int main()
 	if(cp(a))
 	 printf("yes\n");
 	else printf("no\n");
-	
+	printf("git test"); 
 	return 0;
 }
